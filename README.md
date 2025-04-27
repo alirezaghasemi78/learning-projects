@@ -1,13 +1,21 @@
 # learning-projects
 
-Learning Projects
 👋 Welcome to the learning-projects repository!
 
-This repo is a collection of projects, exercises, and notes covering various topics in Machine Learning. The main goal is to deepen my understanding of ML concepts and share my learning journey with others.
+This repository is a personal collection of various topics I am learning, practicing, and exploring.
+The purpose is to document my learning journey and share valuable resources with others interested in technical fields.
 
 📚 Topics Covered
-Each folder focuses on a specific machine learning concept or algorithm, including:
+The content here spans several major areas, including:
 
-. Regression
+Machine Learning
 
-. Classification
+Intelligent Algorithms 
+
+Control Systems
+
+Mathematics
+
+Other related technical subjects
+
+Each topic includes practical projects, code implementations, theoretical explanations, and personal notes
